@@ -44,15 +44,7 @@ This project addresses the problem by combining:
 - Matplotlib
 - Streamlit
 
----
 
-## 📂 Project Structure
-hybrid-sales-forecasting-app/
-│
-├── app.py
-├── requirements.txt
-└── Walmart_Sales.csv 
----
 
 ## 📊 Evaluation Metrics
 - MAE (Mean Absolute Error)
